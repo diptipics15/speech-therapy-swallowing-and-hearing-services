@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dr. Dipti – Clinician Researcher</title>
+  <style>
+    body {
+      font-family: 'Open Sans', Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      line-height: 1.6;
+      background: #f9f9f9;
+      color: #333;
+    }
+    header {
+      background: #004466;
+      color: #fff;
+      padding: 40px 0;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2.5em;
+    }
+    header p {
+      font-size: 1.2em;
+      margin-top: 10px;
+    }
+    nav {
+      background: #006699;
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+    }
+    nav a {
+      color: #fff;
+      padding: 14px 20px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    nav a:hover {
+      background: #004466;
+    }
+    section {
+      padding: 50px 20px;
+      max-width: 1000px;
+      margin: auto;
+    }
+    h2 {
+      color: #004466;
+      margin-bottom: 20px;
+      font-size: 1.8em;
+    }
+    .card {
+      background: #fff;
+      padding: 25px;
+      margin: 20px 0;
+      border-radius: 8px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    }
+    footer {
+      background: #004466;
+      color: #fff;
+      text-align: center;
+      padding: 20px;
+      margin-top: 40px;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Dr. Dipti</h1>
+  <p>Senior Clinician-Researcher | PhD Guide | Academic Leader</p>
+</header>
+
+<nav>
+  <a href="#about">About</a>
+  <a href="#research">Research</a>
+  <a href="#services">Clinical Services</a>
+  <a href="#teaching">Teaching</a>
+  <a href="#contact">Contact</a>
+</nav>
+
+<section id="about">
+  <h2>About Me</h2>
+  <div class="card">
+    <p>I am a senior clinician-researcher, academic faculty, and PhD guide in Audiology and Speech-Language Pathology. 
+    I lead national-level academic assessments and actively shape advanced programs in neuro-oncology and rehabilitation. 
+    My vision is to combine scientific rigor with practical innovation, ensuring accessibility and equity in patient care.</p>
+  </div>
+</section>
+
+<section id="research">
+  <h2>Research & Publications</h2>
+  <div class="card">
+    <ul>
+      <li>Translational research in hearing loss, neuro-ophthalmology, and speech disorders</li>
+      <li>Evidence-based rehabilitation protocols for dysphagia</li>
+      <li>Innovative bedside tools and workflow resources for oncology wards</li>
+      <li>Collaborative manuscript development and advanced academic writing</li>
+    </ul>
+  </div>
+</section>
+
+<section id="services">
+  <h2>Clinical Services</h2>
+  <div class="card">
+    <p>Specialized programs in hearing, speech, and swallowing rehabilitation. 
+    Development of bilingual patient communication resources and accessible clinical protocols. 
+    Establishing and optimizing services at the Advanced Cancer Institute.</p>
+  </div>
+</section>
+
+<section id="teaching">
+  <h2>Teaching & Mentorship</h2>
+  <div class="card">
+    <p>Recognized PhD guide supervising doctoral research in medical audiology and speech-language pathology. 
+    Experienced in setting examination papers and conducting viva voce assessments across India. 
+    Actively engaged in launching advanced academic programs in oncology rehabilitation.</p>
+  </div>
+</section>
+
+<section id="contact">
+  <h2>Contact</h2>
+  <div class="card">
+    <p>Email: <a href="mailto:yourname@example.com">yourname@example.com</a></p>
+    <p>Institution: Advanced Cancer Institute</p>
+    <p>Professional Profiles: LinkedIn | ResearchGate | ORCID</p>
+  </div>
+</section>
+
+<footer>
+  <p>&copy; 2026 Dr. Dipti | Professional Portfolio</p>
+</footer>
+
+</body>
+</html>
